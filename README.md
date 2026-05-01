@@ -7,6 +7,7 @@ This repository contains my practice projects, exercises, and notes from the **C
 - CSS3
 - Flexbox & Grid
 - Bootstrap
+- Web Design Principles
 - JavaScript (ES6)
 - DOM Manipulation
 - Node.js
