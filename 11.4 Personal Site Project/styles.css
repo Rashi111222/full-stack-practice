@@ -1,3 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
 .hero{
     background-color: #FFFBF1;
     display:flex;
@@ -21,4 +26,14 @@
 .hero-text > h1{
     font-family: "Poppins";
     font-size: 65px;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: flex-end;
+    gap: 45px;
+    background-color: #FFF2D0;
+    margin:0;
 }
